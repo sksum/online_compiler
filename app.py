@@ -18,7 +18,7 @@ let x  = () => {
 x();
 return false;
 '
-> SHUSH !</button>
+> SHUSH!</button>
 </center>
     """
 
